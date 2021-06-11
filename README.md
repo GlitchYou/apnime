@@ -6,4 +6,7 @@ API feita apartir do apiicativo Playnimes com engenharika reversa
     pip3 install -r requeriments.txt
 
 ### Uso
-    ./main.py start
+    ./main.py command [query] [page]
+    command [ help | start | search | category | letter | year ]
+    query   Busca
+    page    Número da Página
