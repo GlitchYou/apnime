@@ -7,6 +7,6 @@ API feita apartir do apiicativo Playnimes com engenharika reversa
 
 ### Uso
     ./main.py command [query] [page]
-    command [ help | start | search | category | letter | year ]
+    command Comando [ help | start | search | category | letter | year ]
     query   Busca
     page    Número da Página
