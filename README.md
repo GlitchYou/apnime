@@ -1,5 +1,5 @@
 # apnime
-API feita apartir do apiicativo Playnimes com engenharika reversa
+> API feita apartir do apiicativo Playnimes
 
 ### Dependências
     sudo apt install python3 pip
